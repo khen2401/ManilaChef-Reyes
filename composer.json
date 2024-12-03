@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paymongo/paymongo-php": "dev-development",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
